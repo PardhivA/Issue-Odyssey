@@ -1,0 +1,2372 @@
+[
+    {
+        "sha": "692ab6ea892c6e03aa6d1530f460ceb873a1a029",
+        "node_id": "C_kwDOC0yTNNoAKDY5MmFiNmVhODkyYzZlMDNhYTZkMTUzMGY0NjBjZWI4NzNhMWEwMjk",
+        "commit": {
+            "author": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-10-03T01:07:57Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-10-03T01:07:57Z"
+            },
+            "message": "Update update.json",
+            "tree": {
+                "sha": "ab1bea32cc167f377e7328e8e9829963cbfcf5a7",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/ab1bea32cc167f377e7328e8e9829963cbfcf5a7"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/692ab6ea892c6e03aa6d1530f460ceb873a1a029",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjOjXtCRBK7hj4Ov3rIwAA/mkIADUa5Wey6d5tWl+ynAh+dOyS\nyh3YvoVEHXAXvA+C4cHGXVIx+SMhj3q8JRapaVSNM5UstmG89R8PqhBsSnvLybVP\nMf5svasFJACQVOOP6hy/6bJmZv3BI4AsySnTQskUi+TfO6gR1/+8gl9hc10Wbtm+\nPrTIypZQ3uV98u0xiSY+XQispfDXNhbFuIOZB8lh0Xc7T07c+MdY02KYrDpkJHeU\n31PQiJ4kjNAPFvuZfGeFWQWw+D5wtPOnrGAoU/w32lbioYFAlSsDNDxtEowot5t3\nzFsjpksr6U+Hcu40diBINQc990eQasm44ZprjF7sgmyuHtJxEKdITemMAb9jHlI=\n=Grne\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree ab1bea32cc167f377e7328e8e9829963cbfcf5a7\nparent ffcdd41cb60ca864d40726c10041fde719c7743f\nauthor Doomsdayrs <38189170+Doomsdayrs@users.noreply.github.com> 1664759277 -0400\ncommitter GitHub <noreply@github.com> 1664759277 -0400\n\nUpdate update.json"
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/692ab6ea892c6e03aa6d1530f460ceb873a1a029",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/692ab6ea892c6e03aa6d1530f460ceb873a1a029",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/692ab6ea892c6e03aa6d1530f460ceb873a1a029/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ffcdd41cb60ca864d40726c10041fde719c7743f",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/ffcdd41cb60ca864d40726c10041fde719c7743f",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/ffcdd41cb60ca864d40726c10041fde719c7743f"
+            }
+        ]
+    },
+    {
+        "sha": "ffcdd41cb60ca864d40726c10041fde719c7743f",
+        "node_id": "C_kwDOC0yTNNoAKGZmY2RkNDFjYjYwY2E4NjRkNDA3MjZjMTAwNDFmZGU3MTljNzc0M2Y",
+        "commit": {
+            "author": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-09-17T05:38:49Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-09-17T05:38:49Z"
+            },
+            "message": "Update update.json",
+            "tree": {
+                "sha": "ad169fa7c1564cf43186bcc2e3fce869f36fa0ba",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/ad169fa7c1564cf43186bcc2e3fce869f36fa0ba"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/ffcdd41cb60ca864d40726c10041fde719c7743f",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjJV1pCRBK7hj4Ov3rIwAAha4IACrYAPs3yzOtzFu++j3vfsBq\nJA8NIXLzA81vF1K6gZ0DY2ad6+o0OKg2Hj3wSnZ3vTUD7G28AOP8AROLaQI2u3/i\nmtpDtY0RR1HFbIetFnklrsuFNnkR6CfrnZ/Fufnf8Z7HlibSUMJ2lHcsXY3yWz27\npC/Mcpa3G605Xz+emjRCrLgE5/A0f54UBNnlBijcV9IZ1B0ulVFIfAHYxcuziRyc\nYXGB+JETzwPbGFy/0rjEo8EYHZzGzJQqOaa4S+3W6k0x8s0Akt3WvvhjuVcL1774\n6yxjyiqxkZpDVn6IKttnN3wv4cGSesJGTKeXYAdL8Y7rBi3o8C5Gw7+k3xsNwn0=\n=lF+S\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree ad169fa7c1564cf43186bcc2e3fce869f36fa0ba\nparent 7be76b288fff7afed00d6561ad749a2c399122ab\nauthor Doomsdayrs <38189170+Doomsdayrs@users.noreply.github.com> 1663393129 -0400\ncommitter GitHub <noreply@github.com> 1663393129 -0400\n\nUpdate update.json"
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/ffcdd41cb60ca864d40726c10041fde719c7743f",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/ffcdd41cb60ca864d40726c10041fde719c7743f",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/ffcdd41cb60ca864d40726c10041fde719c7743f/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "7be76b288fff7afed00d6561ad749a2c399122ab",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/7be76b288fff7afed00d6561ad749a2c399122ab",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/7be76b288fff7afed00d6561ad749a2c399122ab"
+            }
+        ]
+    },
+    {
+        "sha": "7be76b288fff7afed00d6561ad749a2c399122ab",
+        "node_id": "C_kwDOC0yTNNoAKDdiZTc2YjI4OGZmZjdhZmVkMDBkNjU2MWFkNzQ5YTJjMzk5MTIyYWI",
+        "commit": {
+            "author": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-09-02T23:52:23Z"
+            },
+            "committer": {
+                "name": "GitHub",
+                "email": "noreply@github.com",
+                "date": "2022-09-02T23:52:23Z"
+            },
+            "message": "Update README.md",
+            "tree": {
+                "sha": "8eb90519274bf65a52c332d64552ea5282c154f2",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/8eb90519274bf65a52c332d64552ea5282c154f2"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/7be76b288fff7afed00d6561ad749a2c399122ab",
+            "comment_count": 0,
+            "verification": {
+                "verified": true,
+                "reason": "valid",
+                "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsBcBAABCAAQBQJjEpc3CRBK7hj4Ov3rIwAAwYEIAFFo1cU+fA8C121z6FERpfLZ\nCTvz1lODJVxvORumtI3TU5/Bw9uEtZ3proGluolfD20Um9eOHtDN/fJLPoLaP1EZ\nK2t/wX/WY8QcAoLAgy1mrOPimdDZWvOt4K0gpKTNGjHDuGiZVaNfdcfSeYQL/9gb\nr8QkjmIsoRPJR+zSGqkQjIySIClJBgLDevCOimnyg4hKtlvepEbN2WLqtCTyZu3N\nUxpfRGC57OOfVv7jy+voSw7tafjpca1QqL7zLZBgS0K5scj211s9drpedBgOGZ5I\nXA3325ArE03lXUexo+Nlncs42JNxdTFZ2IEUrx2gHtSwsCE2/mvcjJ8jZnAQIg8=\n=UOgi\n-----END PGP SIGNATURE-----\n",
+                "payload": "tree 8eb90519274bf65a52c332d64552ea5282c154f2\nparent 76a2bc6b1cbeec655b68610773b7e2a4528b540d\nauthor Doomsdayrs <38189170+Doomsdayrs@users.noreply.github.com> 1662162743 -0400\ncommitter GitHub <noreply@github.com> 1662162743 -0400\n\nUpdate README.md"
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/7be76b288fff7afed00d6561ad749a2c399122ab",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/7be76b288fff7afed00d6561ad749a2c399122ab",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/7be76b288fff7afed00d6561ad749a2c399122ab/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "web-flow",
+            "id": 19864447,
+            "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+            "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/web-flow",
+            "html_url": "https://github.com/web-flow",
+            "followers_url": "https://api.github.com/users/web-flow/followers",
+            "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+            "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+            "organizations_url": "https://api.github.com/users/web-flow/orgs",
+            "repos_url": "https://api.github.com/users/web-flow/repos",
+            "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/web-flow/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "76a2bc6b1cbeec655b68610773b7e2a4528b540d",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/76a2bc6b1cbeec655b68610773b7e2a4528b540d",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/76a2bc6b1cbeec655b68610773b7e2a4528b540d"
+            }
+        ]
+    },
+    {
+        "sha": "76a2bc6b1cbeec655b68610773b7e2a4528b540d",
+        "node_id": "C_kwDOC0yTNNoAKDc2YTJiYzZiMWNiZWVjNjU1YjY4NjEwNzczYjdlMmE0NTI4YjU0MGQ",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-17T22:50:04Z"
+            },
+            "committer": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-17T22:50:04Z"
+            },
+            "message": "Fix proguard-rules.pro",
+            "tree": {
+                "sha": "be67f62be29e0f5a52be756ffcc21f816d50b265",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/be67f62be29e0f5a52be756ffcc21f816d50b265"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/76a2bc6b1cbeec655b68610773b7e2a4528b540d",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/76a2bc6b1cbeec655b68610773b7e2a4528b540d",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/76a2bc6b1cbeec655b68610773b7e2a4528b540d",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/76a2bc6b1cbeec655b68610773b7e2a4528b540d/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8e98d51171be3d752db220cfb49289efc2e4e0dc",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/8e98d51171be3d752db220cfb49289efc2e4e0dc",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/8e98d51171be3d752db220cfb49289efc2e4e0dc"
+            }
+        ]
+    },
+    {
+        "sha": "8e98d51171be3d752db220cfb49289efc2e4e0dc",
+        "node_id": "C_kwDOC0yTNNoAKDhlOThkNTExNzFiZTNkNzUyZGIyMjBjZmI0OTI4OWVmYzJlNGUwZGM",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-17T05:12:34Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-17T05:13:53Z"
+            },
+            "message": "Move app package to app.shosetsu.android",
+            "tree": {
+                "sha": "a1dcb578b34d6e030aa2aa4a4790cceb2d5f3999",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/a1dcb578b34d6e030aa2aa4a4790cceb2d5f3999"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/8e98d51171be3d752db220cfb49289efc2e4e0dc",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/8e98d51171be3d752db220cfb49289efc2e4e0dc",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/8e98d51171be3d752db220cfb49289efc2e4e0dc",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/8e98d51171be3d752db220cfb49289efc2e4e0dc/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "1818979c3fbf363908a5c2c86ec98bd57488035f",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/1818979c3fbf363908a5c2c86ec98bd57488035f",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/1818979c3fbf363908a5c2c86ec98bd57488035f"
+            }
+        ]
+    },
+    {
+        "sha": "1818979c3fbf363908a5c2c86ec98bd57488035f",
+        "node_id": "C_kwDOC0yTNNoAKDE4MTg5NzljM2ZiZjM2MzkwOGE1YzJjODZlYzk4YmQ1NzQ4ODAzNWY",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-17T04:55:37Z"
+            },
+            "committer": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-17T04:55:37Z"
+            },
+            "message": "Release debug update for r2417",
+            "tree": {
+                "sha": "b4596bd01302ef5751017d23a8be00235f1c8b33",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/b4596bd01302ef5751017d23a8be00235f1c8b33"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/1818979c3fbf363908a5c2c86ec98bd57488035f",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/1818979c3fbf363908a5c2c86ec98bd57488035f",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/1818979c3fbf363908a5c2c86ec98bd57488035f",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/1818979c3fbf363908a5c2c86ec98bd57488035f/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a"
+            }
+        ]
+    },
+    {
+        "sha": "c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a",
+        "node_id": "C_kwDOC0yTNNoAKGM3ZGI0ZDRjODIxM2E4ZGJjZjBlMjMxZGNmMTViNjk0M2Q2YTg2NWE",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-15T20:22:07Z"
+            },
+            "committer": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-15T20:22:07Z"
+            },
+            "message": "Direct disclaimer to shosetsu website",
+            "tree": {
+                "sha": "fb1dbba2f944828bbd006f21b875768a36f9c8e5",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/fb1dbba2f944828bbd006f21b875768a36f9c8e5"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "f0658a06bd7a28c8d05a89b5a9d4271c11558e39",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/f0658a06bd7a28c8d05a89b5a9d4271c11558e39",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/f0658a06bd7a28c8d05a89b5a9d4271c11558e39"
+            }
+        ]
+    },
+    {
+        "sha": "f0658a06bd7a28c8d05a89b5a9d4271c11558e39",
+        "node_id": "C_kwDOC0yTNNoAKGYwNjU4YTA2YmQ3YTI4YzhkMDVhODliNWE5ZDQyNzFjMTE1NThlMzk",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-15T17:54:18Z"
+            },
+            "committer": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-15T17:57:47Z"
+            },
+            "message": "Prevent concurrent modifies in CatalogViewModel via sync & copy",
+            "tree": {
+                "sha": "353c9386c2b7acdadfe1452fdb6ad97f330b9998",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/353c9386c2b7acdadfe1452fdb6ad97f330b9998"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/f0658a06bd7a28c8d05a89b5a9d4271c11558e39",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/f0658a06bd7a28c8d05a89b5a9d4271c11558e39",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/f0658a06bd7a28c8d05a89b5a9d4271c11558e39",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/f0658a06bd7a28c8d05a89b5a9d4271c11558e39/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "079762ba5f6ca95a9dd83bc0e842209113fef579",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/079762ba5f6ca95a9dd83bc0e842209113fef579",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/079762ba5f6ca95a9dd83bc0e842209113fef579"
+            }
+        ]
+    },
+    {
+        "sha": "079762ba5f6ca95a9dd83bc0e842209113fef579",
+        "node_id": "C_kwDOC0yTNNoAKDA3OTc2MmJhNWY2Y2E5NWE5ZGQ4M2JjMGU4NDIyMDkxMTNmZWY1Nzk",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-15T04:05:28Z"
+            },
+            "committer": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-15T04:05:28Z"
+            },
+            "message": "Add privacy policy button to about",
+            "tree": {
+                "sha": "ad6e1a7de51e42723b0e0d0aefb8b17616b6c87d",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/ad6e1a7de51e42723b0e0d0aefb8b17616b6c87d"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/079762ba5f6ca95a9dd83bc0e842209113fef579",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/079762ba5f6ca95a9dd83bc0e842209113fef579",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/079762ba5f6ca95a9dd83bc0e842209113fef579",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/079762ba5f6ca95a9dd83bc0e842209113fef579/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee"
+            }
+        ]
+    },
+    {
+        "sha": "ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee",
+        "node_id": "C_kwDOC0yTNNoAKGFiOWM3N2MwMWEwNWVlMzE2NGRkMjE2MTE0YzhmYzQzZDJjM2Y2ZWU",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-14T05:37:56Z"
+            },
+            "committer": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-14T05:37:56Z"
+            },
+            "message": "Add more logs to RestoreBackupWorker.kt",
+            "tree": {
+                "sha": "8ca5789eef0728e85c84f45b75e4a80fc7ea03e5",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/8ca5789eef0728e85c84f45b75e4a80fc7ea03e5"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "7efb7f3894b60e99d948f0a627e6bdbd5e0759a7",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/7efb7f3894b60e99d948f0a627e6bdbd5e0759a7",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/7efb7f3894b60e99d948f0a627e6bdbd5e0759a7"
+            }
+        ]
+    },
+    {
+        "sha": "7efb7f3894b60e99d948f0a627e6bdbd5e0759a7",
+        "node_id": "C_kwDOC0yTNNoAKDdlZmI3ZjM4OTRiNjBlOTlkOTQ4ZjBhNjI3ZTZiZGJkNWUwNzU5YTc",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-13T22:44:17Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-14T05:30:13Z"
+            },
+            "message": "Temp fix for backup restore with external repos",
+            "tree": {
+                "sha": "e4396f712b0134fc36438025a0fa99657961efd9",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/e4396f712b0134fc36438025a0fa99657961efd9"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/7efb7f3894b60e99d948f0a627e6bdbd5e0759a7",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/7efb7f3894b60e99d948f0a627e6bdbd5e0759a7",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/7efb7f3894b60e99d948f0a627e6bdbd5e0759a7",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/7efb7f3894b60e99d948f0a627e6bdbd5e0759a7/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e59602ae0e8e795012cc16b0c34952e1b71f302f",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/e59602ae0e8e795012cc16b0c34952e1b71f302f",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/e59602ae0e8e795012cc16b0c34952e1b71f302f"
+            }
+        ]
+    },
+    {
+        "sha": "e59602ae0e8e795012cc16b0c34952e1b71f302f",
+        "node_id": "C_kwDOC0yTNNoAKGU1OTYwMmFlMGU4ZTc5NTAxMmNjMTZiMGMzNDk1MmUxYjcxZjMwMmY",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-09T21:41:32Z"
+            },
+            "committer": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-09T21:41:32Z"
+            },
+            "message": "Release debug update for r2411",
+            "tree": {
+                "sha": "e9c57e10b5b650ce845e8a605b7b5d89c6f44a7f",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/e9c57e10b5b650ce845e8a605b7b5d89c6f44a7f"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/e59602ae0e8e795012cc16b0c34952e1b71f302f",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/e59602ae0e8e795012cc16b0c34952e1b71f302f",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/e59602ae0e8e795012cc16b0c34952e1b71f302f",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/e59602ae0e8e795012cc16b0c34952e1b71f302f/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "4a9e44d129f9ab16ac64544ae899c25699e673c8",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/4a9e44d129f9ab16ac64544ae899c25699e673c8",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/4a9e44d129f9ab16ac64544ae899c25699e673c8"
+            }
+        ]
+    },
+    {
+        "sha": "4a9e44d129f9ab16ac64544ae899c25699e673c8",
+        "node_id": "C_kwDOC0yTNNoAKDRhOWU0NGQxMjlmOWFiMTZhYzY0NTQ0YWU4OTljMjU2OTllNjczYzg",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-09T18:13:06Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T18:24:00Z"
+            },
+            "message": "Fix padding",
+            "tree": {
+                "sha": "22b0705a42f7ce3e3eb97664087a8d509c931a8a",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/22b0705a42f7ce3e3eb97664087a8d509c931a8a"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/4a9e44d129f9ab16ac64544ae899c25699e673c8",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/4a9e44d129f9ab16ac64544ae899c25699e673c8",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/4a9e44d129f9ab16ac64544ae899c25699e673c8",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/4a9e44d129f9ab16ac64544ae899c25699e673c8/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d21f87b6de53afdbb5739a60e45a820c74c4f4f9",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/d21f87b6de53afdbb5739a60e45a820c74c4f4f9",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/d21f87b6de53afdbb5739a60e45a820c74c4f4f9"
+            }
+        ]
+    },
+    {
+        "sha": "d21f87b6de53afdbb5739a60e45a820c74c4f4f9",
+        "node_id": "C_kwDOC0yTNNoAKGQyMWY4N2I2ZGU1M2FmZGJiNTczOWE2MGU0NWE4MjBjNzRjNGY0Zjk",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-09T17:42:08Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T18:24:00Z"
+            },
+            "message": "Fix enabled parameter on switch settings",
+            "tree": {
+                "sha": "611dc69b0acdce5107a4f9848aeeedfdaaab9b43",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/611dc69b0acdce5107a4f9848aeeedfdaaab9b43"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/d21f87b6de53afdbb5739a60e45a820c74c4f4f9",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/d21f87b6de53afdbb5739a60e45a820c74c4f4f9",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/d21f87b6de53afdbb5739a60e45a820c74c4f4f9",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/d21f87b6de53afdbb5739a60e45a820c74c4f4f9/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "44adc59f4aa4de17678ba69976ce8f79da17cecd",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/44adc59f4aa4de17678ba69976ce8f79da17cecd",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/44adc59f4aa4de17678ba69976ce8f79da17cecd"
+            }
+        ]
+    },
+    {
+        "sha": "44adc59f4aa4de17678ba69976ce8f79da17cecd",
+        "node_id": "C_kwDOC0yTNNoAKDQ0YWRjNTlmNGFhNGRlMTc2NzhiYTY5OTc2Y2U4Zjc5ZGExN2NlY2Q",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T14:03:20Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T18:24:00Z"
+            },
+            "message": "MatchFullscreen is false by default",
+            "tree": {
+                "sha": "dfcde5eaf18aad9a9a4f14ce691f1f16e76adc7c",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/dfcde5eaf18aad9a9a4f14ce691f1f16e76adc7c"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/44adc59f4aa4de17678ba69976ce8f79da17cecd",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/44adc59f4aa4de17678ba69976ce8f79da17cecd",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/44adc59f4aa4de17678ba69976ce8f79da17cecd",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/44adc59f4aa4de17678ba69976ce8f79da17cecd/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "fedacb9ec5add798d58f8f3fd11741e0e9fb3b46",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/fedacb9ec5add798d58f8f3fd11741e0e9fb3b46",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/fedacb9ec5add798d58f8f3fd11741e0e9fb3b46"
+            }
+        ]
+    },
+    {
+        "sha": "fedacb9ec5add798d58f8f3fd11741e0e9fb3b46",
+        "node_id": "C_kwDOC0yTNNoAKGZlZGFjYjllYzVhZGQ3OThkNThmOGYzZmQxMTc0MWUwZTlmYjNiNDY",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T14:01:29Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T18:24:00Z"
+            },
+            "message": "Address comment",
+            "tree": {
+                "sha": "9c2661b55d9fe95059d5afa5049e13664f8e8670",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/9c2661b55d9fe95059d5afa5049e13664f8e8670"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/fedacb9ec5add798d58f8f3fd11741e0e9fb3b46",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/fedacb9ec5add798d58f8f3fd11741e0e9fb3b46",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/fedacb9ec5add798d58f8f3fd11741e0e9fb3b46",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/fedacb9ec5add798d58f8f3fd11741e0e9fb3b46/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "143552ab4769355e191ad302646cde95e71d6b28",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/143552ab4769355e191ad302646cde95e71d6b28",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/143552ab4769355e191ad302646cde95e71d6b28"
+            }
+        ]
+    },
+    {
+        "sha": "143552ab4769355e191ad302646cde95e71d6b28",
+        "node_id": "C_kwDOC0yTNNoAKDE0MzU1MmFiNDc2OTM1NWUxOTFhZDMwMjY0NmNkZTk1ZTcxZDZiMjg",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T02:17:25Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T18:24:00Z"
+            },
+            "message": "Match fullscreen to focus option",
+            "tree": {
+                "sha": "927d0b75626e599e56fa8b81b9527d95114951e4",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/927d0b75626e599e56fa8b81b9527d95114951e4"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/143552ab4769355e191ad302646cde95e71d6b28",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/143552ab4769355e191ad302646cde95e71d6b28",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/143552ab4769355e191ad302646cde95e71d6b28",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/143552ab4769355e191ad302646cde95e71d6b28/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "710f456e9c583b3ea681ce5df38f23c4f4e95d70",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/710f456e9c583b3ea681ce5df38f23c4f4e95d70",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/710f456e9c583b3ea681ce5df38f23c4f4e95d70"
+            }
+        ]
+    },
+    {
+        "sha": "710f456e9c583b3ea681ce5df38f23c4f4e95d70",
+        "node_id": "C_kwDOC0yTNNoAKDcxMGY0NTZlOWM1ODNiM2VhNjgxY2U1ZGYzOGYyM2M0ZjRlOTVkNzA",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T00:44:48Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T18:24:00Z"
+            },
+            "message": "Add fullscreen option",
+            "tree": {
+                "sha": "57e3d36eeaa5bee57224651b215e886462d6e450",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/57e3d36eeaa5bee57224651b215e886462d6e450"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/710f456e9c583b3ea681ce5df38f23c4f4e95d70",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/710f456e9c583b3ea681ce5df38f23c4f4e95d70",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/710f456e9c583b3ea681ce5df38f23c4f4e95d70",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/710f456e9c583b3ea681ce5df38f23c4f4e95d70/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "aeb6824afad9f88a34fb52521798838250d9f4a4",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/aeb6824afad9f88a34fb52521798838250d9f4a4",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/aeb6824afad9f88a34fb52521798838250d9f4a4"
+            }
+        ]
+    },
+    {
+        "sha": "aeb6824afad9f88a34fb52521798838250d9f4a4",
+        "node_id": "C_kwDOC0yTNNoAKGFlYjY4MjRhZmFkOWY4OGEzNGZiNTI1MjE3OTg4MzgyNTBkOWY0YTQ",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-09T17:26:03Z"
+            },
+            "committer": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-09T17:26:03Z"
+            },
+            "message": "Clean up\n\nHandle various build warnings and removing older classes",
+            "tree": {
+                "sha": "1ec88c61c0d5014f1d47266957e3647c49457aed",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/1ec88c61c0d5014f1d47266957e3647c49457aed"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/aeb6824afad9f88a34fb52521798838250d9f4a4",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/aeb6824afad9f88a34fb52521798838250d9f4a4",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/aeb6824afad9f88a34fb52521798838250d9f4a4",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/aeb6824afad9f88a34fb52521798838250d9f4a4/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "8048ab61e03b0b5b8a39bd17b1294c5a3797f071",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/8048ab61e03b0b5b8a39bd17b1294c5a3797f071",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/8048ab61e03b0b5b8a39bd17b1294c5a3797f071"
+            }
+        ]
+    },
+    {
+        "sha": "8048ab61e03b0b5b8a39bd17b1294c5a3797f071",
+        "node_id": "C_kwDOC0yTNNoAKDgwNDhhYjYxZTAzYjBiNWI4YTM5YmQxN2IxMjk0YzVhMzc5N2YwNzE",
+        "commit": {
+            "author": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-09T17:19:37Z"
+            },
+            "committer": {
+                "name": "doomsdayrs",
+                "email": "doomsdayrs@gmail.com",
+                "date": "2022-08-09T17:19:37Z"
+            },
+            "message": "Update dependencies",
+            "tree": {
+                "sha": "3d830560f71b1a9529937cf631c3b6209ccf05ee",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/3d830560f71b1a9529937cf631c3b6209ccf05ee"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/8048ab61e03b0b5b8a39bd17b1294c5a3797f071",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/8048ab61e03b0b5b8a39bd17b1294c5a3797f071",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/8048ab61e03b0b5b8a39bd17b1294c5a3797f071",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/8048ab61e03b0b5b8a39bd17b1294c5a3797f071/comments",
+        "author": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "fe063724995199398ae07d2e2ff7635318466e58",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/fe063724995199398ae07d2e2ff7635318466e58",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/fe063724995199398ae07d2e2ff7635318466e58"
+            }
+        ]
+    },
+    {
+        "sha": "fe063724995199398ae07d2e2ff7635318466e58",
+        "node_id": "C_kwDOC0yTNNoAKGZlMDYzNzI0OTk1MTk5Mzk4YWUwN2QyZTJmZjc2MzUzMTg0NjZlNTg",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-09T00:57:00Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "Fix animation stutter",
+            "tree": {
+                "sha": "4833979b0099876da270d5e82b7b5a676e9d3368",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/4833979b0099876da270d5e82b7b5a676e9d3368"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/fe063724995199398ae07d2e2ff7635318466e58",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/fe063724995199398ae07d2e2ff7635318466e58",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/fe063724995199398ae07d2e2ff7635318466e58",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/fe063724995199398ae07d2e2ff7635318466e58/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "c740328ac60e279f3838185fe2015660c8372381",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/c740328ac60e279f3838185fe2015660c8372381",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/c740328ac60e279f3838185fe2015660c8372381"
+            }
+        ]
+    },
+    {
+        "sha": "c740328ac60e279f3838185fe2015660c8372381",
+        "node_id": "C_kwDOC0yTNNoAKGM3NDAzMjhhYzYwZTI3OWYzODM4MTg1ZmUyMDE1NjYwYzgzNzIzODE",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-09T00:46:55Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "Re-add elevation and remove top content padding",
+            "tree": {
+                "sha": "f38287d1218ea34927605204de7a49dfa4c0ff66",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/f38287d1218ea34927605204de7a49dfa4c0ff66"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/c740328ac60e279f3838185fe2015660c8372381",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/c740328ac60e279f3838185fe2015660c8372381",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/c740328ac60e279f3838185fe2015660c8372381",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/c740328ac60e279f3838185fe2015660c8372381/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "3373a17ed53aa25cf36037adac0c84c290c2ca66",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/3373a17ed53aa25cf36037adac0c84c290c2ca66",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/3373a17ed53aa25cf36037adac0c84c290c2ca66"
+            }
+        ]
+    },
+    {
+        "sha": "3373a17ed53aa25cf36037adac0c84c290c2ca66",
+        "node_id": "C_kwDOC0yTNNoAKDMzNzNhMTdlZDUzYWEyNWNmMzYwMzdhZGFjMGM4NGMyOTBjMmNhNjY",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T19:44:56Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "Fix cover ContentScale",
+            "tree": {
+                "sha": "4c0368974eccb3fcd70c61c0e996d3fe66862049",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/4c0368974eccb3fcd70c61c0e996d3fe66862049"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/3373a17ed53aa25cf36037adac0c84c290c2ca66",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/3373a17ed53aa25cf36037adac0c84c290c2ca66",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/3373a17ed53aa25cf36037adac0c84c290c2ca66",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/3373a17ed53aa25cf36037adac0c84c290c2ca66/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "79cd1055754c761af57ead52c996090acdad2514",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/79cd1055754c761af57ead52c996090acdad2514",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/79cd1055754c761af57ead52c996090acdad2514"
+            }
+        ]
+    },
+    {
+        "sha": "79cd1055754c761af57ead52c996090acdad2514",
+        "node_id": "C_kwDOC0yTNNoAKDc5Y2QxMDU1NzU0Yzc2MWFmNTdlYWQ1MmM5OTYwOTBhY2RhZDI1MTQ",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T19:43:19Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "Fix expanded cover having a ratio and being rounded",
+            "tree": {
+                "sha": "369527fc8170b5db219db52eb965a83d445c8ba6",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/369527fc8170b5db219db52eb965a83d445c8ba6"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/79cd1055754c761af57ead52c996090acdad2514",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/79cd1055754c761af57ead52c996090acdad2514",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/79cd1055754c761af57ead52c996090acdad2514",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/79cd1055754c761af57ead52c996090acdad2514/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "ada1100f7936a307b1c2e93eabe069ef873f8d2b",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/ada1100f7936a307b1c2e93eabe069ef873f8d2b",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/ada1100f7936a307b1c2e93eabe069ef873f8d2b"
+            }
+        ]
+    },
+    {
+        "sha": "ada1100f7936a307b1c2e93eabe069ef873f8d2b",
+        "node_id": "C_kwDOC0yTNNoAKGFkYTExMDBmNzkzNmEzMDdiMWMyZTkzZWFiZTA2OWVmODczZjhkMmI",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T03:13:49Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "NovelCard fixes, forced center alignment and outside padding",
+            "tree": {
+                "sha": "84626ebd717a14ec9040c47d606e0cec62cd1ddd",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/84626ebd717a14ec9040c47d606e0cec62cd1ddd"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/ada1100f7936a307b1c2e93eabe069ef873f8d2b",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/ada1100f7936a307b1c2e93eabe069ef873f8d2b",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/ada1100f7936a307b1c2e93eabe069ef873f8d2b",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/ada1100f7936a307b1c2e93eabe069ef873f8d2b/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "bd4bb4d5273125b196ca77b07aa494179b77155c",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/bd4bb4d5273125b196ca77b07aa494179b77155c",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/bd4bb4d5273125b196ca77b07aa494179b77155c"
+            }
+        ]
+    },
+    {
+        "sha": "bd4bb4d5273125b196ca77b07aa494179b77155c",
+        "node_id": "C_kwDOC0yTNNoAKGJkNGJiNGQ1MjczMTI1YjE5NmNhNzdiMDdhYTQ5NDE3OWI3NzE1NWM",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T01:53:08Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "Fix scrolling filters",
+            "tree": {
+                "sha": "b20fae75c12d3021588943c43664115e00301480",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/b20fae75c12d3021588943c43664115e00301480"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/bd4bb4d5273125b196ca77b07aa494179b77155c",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/bd4bb4d5273125b196ca77b07aa494179b77155c",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/bd4bb4d5273125b196ca77b07aa494179b77155c",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/bd4bb4d5273125b196ca77b07aa494179b77155c/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e272ea6d2f721791a7e0dbcd609f7fba53d07763",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/e272ea6d2f721791a7e0dbcd609f7fba53d07763",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/e272ea6d2f721791a7e0dbcd609f7fba53d07763"
+            }
+        ]
+    },
+    {
+        "sha": "e272ea6d2f721791a7e0dbcd609f7fba53d07763",
+        "node_id": "C_kwDOC0yTNNoAKGUyNzJlYTZkMmY3MjE3OTFhN2UwZGJjZDYwOWY3ZmJhNTNkMDc3NjM",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T01:45:44Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "Add unread badge click",
+            "tree": {
+                "sha": "0d69a2b5416501b1653e46809138d4dd4dbfb939",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/0d69a2b5416501b1653e46809138d4dd4dbfb939"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/e272ea6d2f721791a7e0dbcd609f7fba53d07763",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/e272ea6d2f721791a7e0dbcd609f7fba53d07763",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/e272ea6d2f721791a7e0dbcd609f7fba53d07763",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/e272ea6d2f721791a7e0dbcd609f7fba53d07763/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "d8f9f38931e10713ba884cdbaecff014d949b1f0",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/d8f9f38931e10713ba884cdbaecff014d949b1f0",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/d8f9f38931e10713ba884cdbaecff014d949b1f0"
+            }
+        ]
+    },
+    {
+        "sha": "d8f9f38931e10713ba884cdbaecff014d949b1f0",
+        "node_id": "C_kwDOC0yTNNoAKGQ4ZjlmMzg5MzFlMTA3MTNiYTg4NGNkYmFlY2ZmMDE0ZDk0OWIxZjA",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T01:27:38Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "Licenses",
+            "tree": {
+                "sha": "59622a445b2abd278ac857d5e2e18b4f795c31a4",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/59622a445b2abd278ac857d5e2e18b4f795c31a4"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/d8f9f38931e10713ba884cdbaecff014d949b1f0",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/d8f9f38931e10713ba884cdbaecff014d949b1f0",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/d8f9f38931e10713ba884cdbaecff014d949b1f0",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/d8f9f38931e10713ba884cdbaecff014d949b1f0/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "3348cf85da9530a1271dc3eeaef8481a53b24568",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/3348cf85da9530a1271dc3eeaef8481a53b24568",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/3348cf85da9530a1271dc3eeaef8481a53b24568"
+            }
+        ]
+    },
+    {
+        "sha": "3348cf85da9530a1271dc3eeaef8481a53b24568",
+        "node_id": "C_kwDOC0yTNNoAKDMzNDhjZjg1ZGE5NTMwYTEyNzFkYzNlZWFlZjg0ODFhNTNiMjQ1Njg",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-08T01:01:02Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "Use a standard cover ratio",
+            "tree": {
+                "sha": "94c9d015bc2e2c1ed401c502f71b1f81085eaa4d",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/94c9d015bc2e2c1ed401c502f71b1f81085eaa4d"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/3348cf85da9530a1271dc3eeaef8481a53b24568",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/3348cf85da9530a1271dc3eeaef8481a53b24568",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/3348cf85da9530a1271dc3eeaef8481a53b24568",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/3348cf85da9530a1271dc3eeaef8481a53b24568/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "e7ce2bbd2d2572b003ef10773ee5ae7c2afa91ad",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/e7ce2bbd2d2572b003ef10773ee5ae7c2afa91ad",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/e7ce2bbd2d2572b003ef10773ee5ae7c2afa91ad"
+            }
+        ]
+    },
+    {
+        "sha": "e7ce2bbd2d2572b003ef10773ee5ae7c2afa91ad",
+        "node_id": "C_kwDOC0yTNNoAKGU3Y2UyYmJkMmQyNTcyYjAwM2VmMTA3NzNlZTVhZTdjMmFmYTkxYWQ",
+        "commit": {
+            "author": {
+                "name": "Jobobby04",
+                "email": "jobobby04@users.noreply.github.com",
+                "date": "2022-08-07T23:17:10Z"
+            },
+            "committer": {
+                "name": "Doomsdayrs",
+                "email": "38189170+Doomsdayrs@users.noreply.github.com",
+                "date": "2022-08-09T17:11:53Z"
+            },
+            "message": "UI Cleanup and improvements",
+            "tree": {
+                "sha": "c40742ff142f9538e62635fa378a572639e626e8",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/trees/c40742ff142f9538e62635fa378a572639e626e8"
+            },
+            "url": "https://api.github.com/repos/shosetsuorg/shosetsu/git/commits/e7ce2bbd2d2572b003ef10773ee5ae7c2afa91ad",
+            "comment_count": 0,
+            "verification": {
+                "verified": false,
+                "reason": "unsigned",
+                "signature": null,
+                "payload": null
+            }
+        },
+        "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/e7ce2bbd2d2572b003ef10773ee5ae7c2afa91ad",
+        "html_url": "https://github.com/shosetsuorg/shosetsu/commit/e7ce2bbd2d2572b003ef10773ee5ae7c2afa91ad",
+        "comments_url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/e7ce2bbd2d2572b003ef10773ee5ae7c2afa91ad/comments",
+        "author": {
+            "login": "jobobby04",
+            "id": 17078382,
+            "node_id": "MDQ6VXNlcjE3MDc4Mzgy",
+            "avatar_url": "https://avatars.githubusercontent.com/u/17078382?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/jobobby04",
+            "html_url": "https://github.com/jobobby04",
+            "followers_url": "https://api.github.com/users/jobobby04/followers",
+            "following_url": "https://api.github.com/users/jobobby04/following{/other_user}",
+            "gists_url": "https://api.github.com/users/jobobby04/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/jobobby04/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/jobobby04/subscriptions",
+            "organizations_url": "https://api.github.com/users/jobobby04/orgs",
+            "repos_url": "https://api.github.com/users/jobobby04/repos",
+            "events_url": "https://api.github.com/users/jobobby04/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/jobobby04/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "committer": {
+            "login": "Doomsdayrs",
+            "id": 38189170,
+            "node_id": "MDQ6VXNlcjM4MTg5MTcw",
+            "avatar_url": "https://avatars.githubusercontent.com/u/38189170?v=4",
+            "gravatar_id": "",
+            "url": "https://api.github.com/users/Doomsdayrs",
+            "html_url": "https://github.com/Doomsdayrs",
+            "followers_url": "https://api.github.com/users/Doomsdayrs/followers",
+            "following_url": "https://api.github.com/users/Doomsdayrs/following{/other_user}",
+            "gists_url": "https://api.github.com/users/Doomsdayrs/gists{/gist_id}",
+            "starred_url": "https://api.github.com/users/Doomsdayrs/starred{/owner}{/repo}",
+            "subscriptions_url": "https://api.github.com/users/Doomsdayrs/subscriptions",
+            "organizations_url": "https://api.github.com/users/Doomsdayrs/orgs",
+            "repos_url": "https://api.github.com/users/Doomsdayrs/repos",
+            "events_url": "https://api.github.com/users/Doomsdayrs/events{/privacy}",
+            "received_events_url": "https://api.github.com/users/Doomsdayrs/received_events",
+            "type": "User",
+            "site_admin": false
+        },
+        "parents": [
+            {
+                "sha": "c8f09b0920bf9ef8e0454730ed41d44be168c1ff",
+                "url": "https://api.github.com/repos/shosetsuorg/shosetsu/commits/c8f09b0920bf9ef8e0454730ed41d44be168c1ff",
+                "html_url": "https://github.com/shosetsuorg/shosetsu/commit/c8f09b0920bf9ef8e0454730ed41d44be168c1ff"
+            }
+        ]
+    }
+]
