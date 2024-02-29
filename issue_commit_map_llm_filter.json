@@ -1,58 +1,68 @@
 {
     "1341177539": {
         "issue_title": "Move app package to app.shosetsu.android",
-        "commit_messages": [
-            {
-                "message": "Move app package to app.shosetsu.android",
-                "sha": "8e98d51171be3d752db220cfb49289efc2e4e0dc"
-            }
-        ]
+        "commit_messages": {
+            "related": [
+                {
+                    "message": "Move app package to app.shosetsu.android",
+                    "sha": "8e98d51171be3d752db220cfb49289efc2e4e0dc"
+                }
+            ],
+            "unrelated": []
+        }
     },
     "1338077710": {
         "issue_title": "Temp fix for backup restore with external repos",
-        "commit_messages": [
-            {
-                "message": "Temp fix for backup restore with external repos",
-                "sha": "7efb7f3894b60e99d948f0a627e6bdbd5e0759a7"
-            }
-        ]
+        "commit_messages": {
+            "related": [
+                {
+                    "message": "Temp fix for backup restore with external repos",
+                    "sha": "7efb7f3894b60e99d948f0a627e6bdbd5e0759a7"
+                }
+            ],
+            "unrelated": []
+        }
     },
     "1338076041": {
         "issue_title": "[Bug] [App lags] ",
-        "commit_messages": [
-            {
-                "message": "Fix proguard-rules.pro",
-                "sha": "76a2bc6b1cbeec655b68610773b7e2a4528b540d"
-            },
-            {
-                "message": "Move app package to app.shosetsu.android",
-                "sha": "8e98d51171be3d752db220cfb49289efc2e4e0dc"
-            },
-            {
-                "message": "Release debug update for r2417",
-                "sha": "1818979c3fbf363908a5c2c86ec98bd57488035f"
-            },
-            {
-                "message": "Direct disclaimer to shosetsu website",
-                "sha": "c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a"
-            },
-            {
-                "message": "Prevent concurrent modifies in CatalogViewModel via sync & copy",
-                "sha": "f0658a06bd7a28c8d05a89b5a9d4271c11558e39"
-            },
-            {
-                "message": "Add privacy policy button to about",
-                "sha": "079762ba5f6ca95a9dd83bc0e842209113fef579"
-            },
-            {
-                "message": "Add more logs to RestoreBackupWorker.kt",
-                "sha": "ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee"
-            },
-            {
-                "message": "Temp fix for backup restore with external repos",
-                "sha": "7efb7f3894b60e99d948f0a627e6bdbd5e0759a7"
-            }
-        ]
+        "commit_messages": {
+            "related": [
+                {
+                    "message": "Fix proguard-rules.pro",
+                    "sha": "76a2bc6b1cbeec655b68610773b7e2a4528b540d"
+                },
+                {
+                    "message": "Prevent concurrent modifies in CatalogViewModel via sync & copy",
+                    "sha": "f0658a06bd7a28c8d05a89b5a9d4271c11558e39"
+                },
+                {
+                    "message": "Add more logs to RestoreBackupWorker.kt",
+                    "sha": "ab9c77c01a05ee3164dd216114c8fc43d2c3f6ee"
+                },
+                {
+                    "message": "Temp fix for backup restore with external repos",
+                    "sha": "7efb7f3894b60e99d948f0a627e6bdbd5e0759a7"
+                }
+            ],
+            "unrelated": [
+                {
+                    "message": "Move app package to app.shosetsu.android",
+                    "sha": "8e98d51171be3d752db220cfb49289efc2e4e0dc"
+                },
+                {
+                    "message": "Release debug update for r2417",
+                    "sha": "1818979c3fbf363908a5c2c86ec98bd57488035f"
+                },
+                {
+                    "message": "Direct disclaimer to shosetsu website",
+                    "sha": "c7db4d4c8213a8dbcf0e231dcf15b6943d6a865a"
+                },
+                {
+                    "message": "Add privacy policy button to about",
+                    "sha": "079762ba5f6ca95a9dd83bc0e842209113fef579"
+                }
+            ]
+        }
     },
     "1331233264": {
         "issue_title": "Fullscreen Settings for Reader",
