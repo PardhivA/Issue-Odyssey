@@ -1,0 +1,743 @@
+{
+    "1341177539": {
+        "issue_title": "Move app package to app.shosetsu.android",
+        "commit_messages": [
+            "Move app package to app.shosetsu.android"
+        ]
+    },
+    "1338077710": {
+        "issue_title": "Temp fix for backup restore with external repos",
+        "commit_messages": [
+            "Temp fix for backup restore with external repos"
+        ]
+    },
+    "1338076041": {
+        "issue_title": "[Bug] [App lags] ",
+        "commit_messages": [
+            "Fix proguard-rules.pro",
+            "Move app package to app.shosetsu.android",
+            "Release debug update for r2417",
+            "Direct disclaimer to shosetsu website",
+            "Prevent concurrent modifies in CatalogViewModel via sync & copy",
+            "Add privacy policy button to about",
+            "Add more logs to RestoreBackupWorker.kt",
+            "Temp fix for backup restore with external repos"
+        ]
+    },
+    "1331233264": {
+        "issue_title": "Fullscreen Settings for Reader",
+        "commit_messages": [
+            "Fix padding",
+            "Fix enabled parameter on switch settings",
+            "MatchFullscreen is false by default",
+            "Address comment",
+            "Match fullscreen to focus option",
+            "Add fullscreen option",
+            "Clean up\n\nHandle various build warnings and removing older classes",
+            "Update dependencies",
+            "Fix animation stutter",
+            "Re-add elevation and remove top content padding",
+            "Fix cover ContentScale",
+            "Fix expanded cover having a ratio and being rounded",
+            "NovelCard fixes, forced center alignment and outside padding",
+            "Fix scrolling filters",
+            "Add unread badge click",
+            "Licenses",
+            "Use a standard cover ratio",
+            "UI Cleanup and improvements"
+        ]
+    },
+    "1331156614": {
+        "issue_title": "UI Cleanup and improvements",
+        "commit_messages": [
+            "Fix animation stutter",
+            "Re-add elevation and remove top content padding",
+            "Fix cover ContentScale",
+            "Fix expanded cover having a ratio and being rounded",
+            "NovelCard fixes, forced center alignment and outside padding",
+            "Fix scrolling filters",
+            "Add unread badge click",
+            "Licenses",
+            "Use a standard cover ratio",
+            "UI Cleanup and improvements"
+        ]
+    },
+    "1329213467": {
+        "issue_title": "Multiple optimizations for performance",
+        "commit_messages": [
+            "Set MutableStateFlow.value instead of .emit\n\nMutableStateFlow is made for watching a state of a value, if you set .value it will first check if its equal to the last value and only emit the new value if its not. You shouldn't use .emit or .tryEmit on a MutableStateFlow, if you need a flow where you can emit independent of the previous value, while keeping track of the last value, you should be using a MutableSharedFlow with a replay value of 1.",
+            "Remember string modification",
+            "Use function references where possible",
+            "Dont remember derivedStateOf, it needs to watch values outside the remember",
+            "Improve performance of chapter lists",
+            "Use Empty collections where possible",
+            "Found a extra ComposeView lol",
+            "Add UIUpdates UI model for pre-calculated time display",
+            "Start working on improving UI performance, add @Immutable to UI models",
+            "Prevent downloading all when there are no chapters"
+        ]
+    },
+    "1315132643": {
+        "issue_title": "[F-R] Chapter range download",
+        "commit_messages": []
+    },
+    "1301658893": {
+        "issue_title": "[Bug] [2.0.0-2344] Migrate source button malfunctioning",
+        "commit_messages": [
+            "Fix novel controller migration button\n\nCloses #232"
+        ]
+    },
+    "1301425818": {
+        "issue_title": "Move package to app.shosetsu.android",
+        "commit_messages": [
+            "Release debug update for r2417",
+            "Direct disclaimer to shosetsu website",
+            "Prevent concurrent modifies in CatalogViewModel via sync & copy",
+            "Add privacy policy button to about",
+            "Add more logs to RestoreBackupWorker.kt",
+            "Temp fix for backup restore with external repos",
+            "Release debug update for r2411",
+            "Fix padding",
+            "Fix enabled parameter on switch settings",
+            "MatchFullscreen is false by default",
+            "Address comment",
+            "Match fullscreen to focus option",
+            "Add fullscreen option",
+            "Clean up\n\nHandle various build warnings and removing older classes",
+            "Update dependencies",
+            "Fix animation stutter",
+            "Re-add elevation and remove top content padding",
+            "Fix cover ContentScale",
+            "Fix expanded cover having a ratio and being rounded",
+            "NovelCard fixes, forced center alignment and outside padding",
+            "Fix scrolling filters",
+            "Add unread badge click",
+            "Licenses",
+            "Use a standard cover ratio",
+            "UI Cleanup and improvements",
+            "Use map in ExtensionConfigureViewModel listing choice creation",
+            "Only show choices for extension listing when there are more then one",
+            "Ignore duplicate navigation",
+            "Patch Migration2To3.kt",
+            "Upgrade AGP to 7.2.2",
+            "Set MutableStateFlow.value instead of .emit\n\nMutableStateFlow is made for watching a state of a value, if you set .value it will first check if its equal to the last value and only emit the new value if its not. You shouldn't use .emit or .tryEmit on a MutableStateFlow, if you need a flow where you can emit independent of the previous value, while keeping track of the last value, you should be using a MutableSharedFlow with a replay value of 1.",
+            "Remember string modification",
+            "Use function references where possible",
+            "Dont remember derivedStateOf, it needs to watch values outside the remember",
+            "Improve performance of chapter lists",
+            "Use Empty collections where possible",
+            "Found a extra ComposeView lol",
+            "Add UIUpdates UI model for pre-calculated time display",
+            "Start working on improving UI performance, add @Immutable to UI models",
+            "Prevent downloading all when there are no chapters",
+            "Release debug update for r2377",
+            "Add click updated chapter notification to open up chapter reader",
+            "Force reader bottom bar to be sharp",
+            "Use VerticalArrangement for spacing in UI",
+            "Use VerticalArrangment for spacing in UI",
+            "Remove continuous scroll from UI",
+            "Add some minor information logging",
+            "Fix QRCode crashing when opening",
+            "Scanned QR code is added automatically",
+            "Improve Restore Now dialog UI",
+            "Rename BackupSettings.kt to BackupFragment.kt",
+            "Hide filter button is an extension has no filters",
+            "Fix missing \"Filter\" text from Catalog",
+            "Add animations again",
+            "Release debug update for r2363",
+            "Launch certain views in single top mode\n\nTo hopefully prevent crashes due to invalid navigation routes",
+            "Minor code cleanups",
+            "Specific mimeType when creating a backup",
+            "Handle more errors properly",
+            "Fix novel controller migration button\n\nCloses #232"
+        ]
+    },
+    "1291954110": {
+        "issue_title": "[F-R] Change export backup dialog to be easily understood",
+        "commit_messages": [
+            "Fix double pressing back",
+            "Rearrange BackupSettings.kt for better user clarity\n\nCloses #230",
+            "Submit minor work on MigrationViewModel.kt",
+            "Fix repeating opens of content",
+            "Call super.onDestroy in Catalog & Share",
+            "Fix AddShareController.kt continually reopening camera",
+            "Only collect first value with openlastRead() in NovelController.kt",
+            "Use extension functions to sync navigation",
+            "Re-implement fragments"
+        ]
+    },
+    "1290254053": {
+        "issue_title": "[F-R]",
+        "commit_messages": []
+    },
+    "1258821091": {
+        "issue_title": "[Bug] [r2258] Mix up of chapters in the reader with vertical paging.",
+        "commit_messages": [
+            "Fix double pressing back",
+            "Rearrange BackupSettings.kt for better user clarity\n\nCloses #230",
+            "Submit minor work on MigrationViewModel.kt",
+            "Fix repeating opens of content",
+            "Call super.onDestroy in Catalog & Share",
+            "Fix AddShareController.kt continually reopening camera",
+            "Only collect first value with openlastRead() in NovelController.kt",
+            "Use extension functions to sync navigation",
+            "Re-implement fragments"
+        ]
+    },
+    "1254075498": {
+        "issue_title": "[F-R]",
+        "commit_messages": [
+            "Fix double pressing back",
+            "Rearrange BackupSettings.kt for better user clarity\n\nCloses #230",
+            "Submit minor work on MigrationViewModel.kt",
+            "Fix repeating opens of content",
+            "Call super.onDestroy in Catalog & Share",
+            "Fix AddShareController.kt continually reopening camera",
+            "Only collect first value with openlastRead() in NovelController.kt",
+            "Use extension functions to sync navigation",
+            "Re-implement fragments"
+        ]
+    },
+    "1253691977": {
+        "issue_title": "Search results stay between sources[Bug] [VERSION]",
+        "commit_messages": []
+    },
+    "1248931625": {
+        "issue_title": "[F-R]Add a way to cancel titles of chapters because they are spoilers",
+        "commit_messages": []
+    },
+    "1247089417": {
+        "issue_title": "[Bug] [2186]'Teleportation' to chapter when you click the resume button is wrong if the sort is the oppisite",
+        "commit_messages": []
+    },
+    "1246864988": {
+        "issue_title": "[F-R] Kolnovel server",
+        "commit_messages": []
+    },
+    "1246741758": {
+        "issue_title": "[Bug] [r2186]Unbookmark button selects all the chapters for no reason",
+        "commit_messages": []
+    },
+    "1246718021": {
+        "issue_title": "[F-R]Limit download speed.of.chapters",
+        "commit_messages": []
+    },
+    "1244210329": {
+        "issue_title": "[Bug] [2186] Heavy lag occours and accumulate over time after normal use",
+        "commit_messages": []
+    },
+    "1236650008": {
+        "issue_title": "[F-R]Give overlay to this upper bar",
+        "commit_messages": []
+    },
+    "1236560436": {
+        "issue_title": "Shosetsu V2",
+        "commit_messages": [
+            "Release debug update for r2417",
+            "Direct disclaimer to shosetsu website",
+            "Prevent concurrent modifies in CatalogViewModel via sync & copy",
+            "Add privacy policy button to about",
+            "Add more logs to RestoreBackupWorker.kt",
+            "Temp fix for backup restore with external repos",
+            "Release debug update for r2411",
+            "Fix padding",
+            "Fix enabled parameter on switch settings",
+            "MatchFullscreen is false by default",
+            "Address comment",
+            "Match fullscreen to focus option",
+            "Add fullscreen option",
+            "Clean up\n\nHandle various build warnings and removing older classes",
+            "Update dependencies",
+            "Fix animation stutter",
+            "Re-add elevation and remove top content padding",
+            "Fix cover ContentScale",
+            "Fix expanded cover having a ratio and being rounded",
+            "NovelCard fixes, forced center alignment and outside padding",
+            "Fix scrolling filters",
+            "Add unread badge click",
+            "Licenses",
+            "Use a standard cover ratio",
+            "UI Cleanup and improvements",
+            "Use map in ExtensionConfigureViewModel listing choice creation",
+            "Only show choices for extension listing when there are more then one",
+            "Ignore duplicate navigation",
+            "Patch Migration2To3.kt",
+            "Upgrade AGP to 7.2.2",
+            "Set MutableStateFlow.value instead of .emit\n\nMutableStateFlow is made for watching a state of a value, if you set .value it will first check if its equal to the last value and only emit the new value if its not. You shouldn't use .emit or .tryEmit on a MutableStateFlow, if you need a flow where you can emit independent of the previous value, while keeping track of the last value, you should be using a MutableSharedFlow with a replay value of 1.",
+            "Remember string modification",
+            "Use function references where possible",
+            "Dont remember derivedStateOf, it needs to watch values outside the remember",
+            "Improve performance of chapter lists",
+            "Use Empty collections where possible",
+            "Found a extra ComposeView lol",
+            "Add UIUpdates UI model for pre-calculated time display",
+            "Start working on improving UI performance, add @Immutable to UI models",
+            "Prevent downloading all when there are no chapters",
+            "Release debug update for r2377",
+            "Add click updated chapter notification to open up chapter reader",
+            "Force reader bottom bar to be sharp",
+            "Use VerticalArrangement for spacing in UI",
+            "Use VerticalArrangment for spacing in UI",
+            "Remove continuous scroll from UI",
+            "Add some minor information logging",
+            "Fix QRCode crashing when opening",
+            "Scanned QR code is added automatically",
+            "Improve Restore Now dialog UI",
+            "Rename BackupSettings.kt to BackupFragment.kt",
+            "Hide filter button is an extension has no filters",
+            "Fix missing \"Filter\" text from Catalog",
+            "Add animations again",
+            "Release debug update for r2363",
+            "Launch certain views in single top mode\n\nTo hopefully prevent crashes due to invalid navigation routes",
+            "Minor code cleanups",
+            "Specific mimeType when creating a backup",
+            "Handle more errors properly",
+            "Fix novel controller migration button\n\nCloses #232",
+            "Remove backwards compatibility support",
+            "Fix dual output preference not being respected",
+            "Remove more old code",
+            "Document MainActivity.kt",
+            "Remove old null checks",
+            "Update user agent",
+            "Simplify lib loading",
+            "Better handle errors in remote data source",
+            "Add ACRA Identification to AboutController.kt",
+            "Possibly fix migration from 2to3",
+            "Ensure that bulk operations do not exceed over 999 variables per query\n\nSeems that SQL has a 999 item limit, oops!",
+            "Fix qr scanner not being opened after leaving add share view",
+            "Only update repositories when there are no extensions",
+            "Release debug update for r2344",
+            "Remove actionMain from MainActivity.kt",
+            "Fix activity_webview.xml crashing",
+            "Remove more old/unnecessary things",
+            "Comment out deprecated function",
+            "Use MenuProvider over deprecated functions",
+            "Remove old UpdateUI.kt",
+            "Update dependencies",
+            "Fix search fragment being launched twice",
+            "Fade out novels that are bookmarked in catalog & search",
+            "Disable delete chapters on read\n\nDue to the functionality being broken, disable till future fix",
+            "Disable volume scroll\n\nDue to problems with volume scrolling, disabled till further repair",
+            "Disable vertical paging in reader\n\nGoogle has yet to fix their Webview interop with Compose,\n thus this action must be taken for UX.\n\n#198",
+            "Fix double pressing back",
+            "Rearrange BackupSettings.kt for better user clarity\n\nCloses #230",
+            "Submit minor work on MigrationViewModel.kt",
+            "Fix repeating opens of content",
+            "Call super.onDestroy in Catalog & Share",
+            "Fix AddShareController.kt continually reopening camera",
+            "Only collect first value with openlastRead() in NovelController.kt",
+            "Use extension functions to sync navigation",
+            "Re-implement fragments"
+        ]
+    },
+    "1236164350": {
+        "issue_title": "[Bug] [VERSION] \"End of input at character 0 of\" bug",
+        "commit_messages": []
+    },
+    "1236092796": {
+        "issue_title": "Implement Paging for loading data from extensions",
+        "commit_messages": []
+    },
+    "1217120376": {
+        "issue_title": "[F-R] Space between the text and the borders settable",
+        "commit_messages": [
+            "Fix proguard-rules.pro",
+            "Move app package to app.shosetsu.android",
+            "Release debug update for r2417",
+            "Direct disclaimer to shosetsu website",
+            "Prevent concurrent modifies in CatalogViewModel via sync & copy",
+            "Add privacy policy button to about",
+            "Add more logs to RestoreBackupWorker.kt",
+            "Temp fix for backup restore with external repos",
+            "Release debug update for r2411",
+            "Fix padding",
+            "Fix enabled parameter on switch settings",
+            "MatchFullscreen is false by default",
+            "Address comment",
+            "Match fullscreen to focus option",
+            "Add fullscreen option",
+            "Clean up\n\nHandle various build warnings and removing older classes",
+            "Update dependencies",
+            "Fix animation stutter",
+            "Re-add elevation and remove top content padding",
+            "Fix cover ContentScale",
+            "Fix expanded cover having a ratio and being rounded",
+            "NovelCard fixes, forced center alignment and outside padding",
+            "Fix scrolling filters",
+            "Add unread badge click",
+            "Licenses",
+            "Use a standard cover ratio",
+            "UI Cleanup and improvements",
+            "Use map in ExtensionConfigureViewModel listing choice creation",
+            "Only show choices for extension listing when there are more then one",
+            "Ignore duplicate navigation",
+            "Patch Migration2To3.kt",
+            "Upgrade AGP to 7.2.2",
+            "Set MutableStateFlow.value instead of .emit\n\nMutableStateFlow is made for watching a state of a value, if you set .value it will first check if its equal to the last value and only emit the new value if its not. You shouldn't use .emit or .tryEmit on a MutableStateFlow, if you need a flow where you can emit independent of the previous value, while keeping track of the last value, you should be using a MutableSharedFlow with a replay value of 1.",
+            "Remember string modification",
+            "Use function references where possible",
+            "Dont remember derivedStateOf, it needs to watch values outside the remember",
+            "Improve performance of chapter lists",
+            "Use Empty collections where possible",
+            "Found a extra ComposeView lol",
+            "Add UIUpdates UI model for pre-calculated time display",
+            "Start working on improving UI performance, add @Immutable to UI models",
+            "Prevent downloading all when there are no chapters",
+            "Release debug update for r2377",
+            "Add click updated chapter notification to open up chapter reader",
+            "Force reader bottom bar to be sharp",
+            "Use VerticalArrangement for spacing in UI",
+            "Use VerticalArrangment for spacing in UI",
+            "Remove continuous scroll from UI",
+            "Add some minor information logging",
+            "Fix QRCode crashing when opening",
+            "Scanned QR code is added automatically",
+            "Improve Restore Now dialog UI",
+            "Rename BackupSettings.kt to BackupFragment.kt",
+            "Hide filter button is an extension has no filters",
+            "Fix missing \"Filter\" text from Catalog",
+            "Add animations again",
+            "Release debug update for r2363",
+            "Launch certain views in single top mode\n\nTo hopefully prevent crashes due to invalid navigation routes",
+            "Minor code cleanups",
+            "Specific mimeType when creating a backup",
+            "Handle more errors properly",
+            "Fix novel controller migration button\n\nCloses #232",
+            "Remove backwards compatibility support",
+            "Fix dual output preference not being respected",
+            "Remove more old code",
+            "Document MainActivity.kt",
+            "Remove old null checks",
+            "Update user agent",
+            "Simplify lib loading",
+            "Better handle errors in remote data source",
+            "Add ACRA Identification to AboutController.kt",
+            "Possibly fix migration from 2to3",
+            "Ensure that bulk operations do not exceed over 999 variables per query\n\nSeems that SQL has a 999 item limit, oops!",
+            "Fix qr scanner not being opened after leaving add share view",
+            "Only update repositories when there are no extensions",
+            "Release debug update for r2344",
+            "Remove actionMain from MainActivity.kt",
+            "Fix activity_webview.xml crashing",
+            "Remove more old/unnecessary things",
+            "Comment out deprecated function",
+            "Use MenuProvider over deprecated functions",
+            "Remove old UpdateUI.kt",
+            "Update dependencies",
+            "Fix search fragment being launched twice",
+            "Fade out novels that are bookmarked in catalog & search",
+            "Disable delete chapters on read\n\nDue to the functionality being broken, disable till future fix",
+            "Disable volume scroll\n\nDue to problems with volume scrolling, disabled till further repair",
+            "Disable vertical paging in reader\n\nGoogle has yet to fix their Webview interop with Compose,\n thus this action must be taken for UX.\n\n#198",
+            "Fix double pressing back",
+            "Rearrange BackupSettings.kt for better user clarity\n\nCloses #230",
+            "Submit minor work on MigrationViewModel.kt",
+            "Fix repeating opens of content",
+            "Call super.onDestroy in Catalog & Share",
+            "Fix AddShareController.kt continually reopening camera",
+            "Only collect first value with openlastRead() in NovelController.kt",
+            "Use extension functions to sync navigation",
+            "Re-implement fragments"
+        ]
+    },
+    "1203236055": {
+        "issue_title": "[Bug] Back gesture doesn't work properly in reader. [r2050]",
+        "commit_messages": []
+    },
+    "1164914971": {
+        "issue_title": "[Bug] Unable to go back if volume scroll enabled.",
+        "commit_messages": []
+    },
+    "1164908492": {
+        "issue_title": "[Bug] [VERSION]",
+        "commit_messages": []
+    },
+    "1125230714": {
+        "issue_title": "white screen in Dark Mode when opening the app (2.0.0-1697)",
+        "commit_messages": []
+    },
+    "1090708193": {
+        "issue_title": "[SOURCE REQUEST]",
+        "commit_messages": []
+    },
+    "1088467065": {
+        "issue_title": "[F-R]adding source",
+        "commit_messages": []
+    },
+    "1084001171": {
+        "issue_title": "[F-R] Compiling notifications",
+        "commit_messages": []
+    },
+    "1078854826": {
+        "issue_title": "Extension install bug [1656]",
+        "commit_messages": []
+    },
+    "1070367702": {
+        "issue_title": "[F-R] Change to the \"Jump\" button",
+        "commit_messages": []
+    },
+    "1064708221": {
+        "issue_title": "Fix dropdown text color, unclickable space",
+        "commit_messages": []
+    },
+    "1063747831": {
+        "issue_title": "Disallow opening duplicate FILTER pop-ups",
+        "commit_messages": []
+    },
+    "1063565003": {
+        "issue_title": "[Bug] [2.0.0-1678] Duplicate FILTER pop-ups",
+        "commit_messages": []
+    },
+    "1063175036": {
+        "issue_title": "Spanish translation",
+        "commit_messages": []
+    },
+    "1063016909": {
+        "issue_title": "Previous failure doesn't stop current extension install",
+        "commit_messages": []
+    },
+    "1062963320": {
+        "issue_title": "[Bug] [2.0.0-1677] Offline extension install attempt blocks future online extension installs",
+        "commit_messages": []
+    },
+    "1052972339": {
+        "issue_title": "[Bug] [2.0.0-1656] Malformed extension stops all extension updates/installs",
+        "commit_messages": []
+    },
+    "1052966204": {
+        "issue_title": "[Bug] [1656] Genre Listing of a Novel Incomplete",
+        "commit_messages": []
+    },
+    "1052961349": {
+        "issue_title": "[Bug] [1656] Drop Down List Dark Theme Text Colour",
+        "commit_messages": []
+    },
+    "1052922082": {
+        "issue_title": "[Bug] [2.0.0-1656] Extension settings don't load the first time",
+        "commit_messages": []
+    },
+    "1052897315": {
+        "issue_title": "[Bug] [2.0.0-1656] Top of screen eats top of filter menu",
+        "commit_messages": []
+    },
+    "1047811253": {
+        "issue_title": "[Bug] [1656] Chapter Release (Date) Cut Off",
+        "commit_messages": []
+    },
+    "1047656491": {
+        "issue_title": "[F-R] Snackbar Resizing Depending on Downloaded Chapters",
+        "commit_messages": []
+    },
+    "1047614223": {
+        "issue_title": "[Bug] [1656] Novels in Listing View Duplicating",
+        "commit_messages": []
+    },
+    "1034420159": {
+        "issue_title": "[F-R] Export downloaded chapters as Epub",
+        "commit_messages": []
+    },
+    "1015741953": {
+        "issue_title": "[F-R] Option to cancel downloads",
+        "commit_messages": []
+    },
+    "1015739319": {
+        "issue_title": "[Bug] [2.0.0-1602] External backups can't be restored",
+        "commit_messages": []
+    },
+    "1011098721": {
+        "issue_title": "[F-R] Add an extension for novelupdates",
+        "commit_messages": []
+    },
+    "1007513145": {
+        "issue_title": "Chapter stops abruptly with certain character sequences ",
+        "commit_messages": []
+    },
+    "996663164": {
+        "issue_title": "[F-R] Exporting to epub",
+        "commit_messages": []
+    },
+    "992099703": {
+        "issue_title": "Unable to change download directory ",
+        "commit_messages": []
+    },
+    "970099801": {
+        "issue_title": "[F-R] Mark previous as read",
+        "commit_messages": []
+    },
+    "964409705": {
+        "issue_title": "[F-R] ",
+        "commit_messages": []
+    },
+    "957483853": {
+        "issue_title": "[F-R] Update only ongoing to Update except complete",
+        "commit_messages": []
+    },
+    "950739075": {
+        "issue_title": "[Bug] [2.0.0] What are the values in acra.properties supposed to be? [DEVELOPMENT]",
+        "commit_messages": []
+    },
+    "949371318": {
+        "issue_title": "[F-R]",
+        "commit_messages": []
+    },
+    "946825651": {
+        "issue_title": "[F-R]Top margin padding",
+        "commit_messages": []
+    },
+    "945403560": {
+        "issue_title": "[Bug] [1441] Changing view in Browse section doesn't work",
+        "commit_messages": []
+    },
+    "945279969": {
+        "issue_title": "[Bug] [1441] Cant change to light theme",
+        "commit_messages": []
+    },
+    "945276198": {
+        "issue_title": "[Bug] [1441] Reader navbar and statusbar wont go away",
+        "commit_messages": []
+    },
+    "945009001": {
+        "issue_title": "[downloading updated chapter not working] [1441",
+        "commit_messages": []
+    },
+    "944968486": {
+        "issue_title": "[Bug] [1435 - 1441] Update screen not shown new update",
+        "commit_messages": []
+    },
+    "930859358": {
+        "issue_title": "[F-R] Extension Update Notification",
+        "commit_messages": []
+    },
+    "846056176": {
+        "issue_title": "Extension Request",
+        "commit_messages": []
+    },
+    "846055370": {
+        "issue_title": "Extension Request",
+        "commit_messages": []
+    },
+    "822370388": {
+        "issue_title": "[F-R] Font options",
+        "commit_messages": []
+    },
+    "822040848": {
+        "issue_title": "[F-R] Bigger scoll bar in chapter browsing",
+        "commit_messages": []
+    },
+    "819741945": {
+        "issue_title": "[F-R] Request to add an option to make shosetsu the default epub reader so that we can read downloaded epubs on shosetsu as well",
+        "commit_messages": []
+    },
+    "813121209": {
+        "issue_title": "[Bug] [r1136] Chapter selection bugs out",
+        "commit_messages": []
+    },
+    "810324716": {
+        "issue_title": "[F-R] Option to disable next/prev chapter gesture",
+        "commit_messages": []
+    },
+    "807980866": {
+        "issue_title": "Removed FAB blue outline ",
+        "commit_messages": []
+    },
+    "805280796": {
+        "issue_title": "[Bug] Let the reader remember where we left off the last read chapter.",
+        "commit_messages": []
+    },
+    "805250549": {
+        "issue_title": "Show what novel chapters are updated when library is updated in notification toggle.",
+        "commit_messages": []
+    },
+    "805148267": {
+        "issue_title": "Option for disable Left/Right Swipe",
+        "commit_messages": []
+    },
+    "804637512": {
+        "issue_title": "[F-R] Add some built in rotation lock. It has happened a few times where it rotates by accident and then resets the chapter to the beginning.",
+        "commit_messages": []
+    },
+    "804209878": {
+        "issue_title": "[F-R] A \"novel chapter search feature\" in library to directly jump to the required chapter & ability to directly \"mark read above\" chapters.",
+        "commit_messages": []
+    },
+    "802428272": {
+        "issue_title": "[F-R] Improve accessibility for the visually impaired",
+        "commit_messages": []
+    },
+    "801523597": {
+        "issue_title": "App crashes sometimes when reopening reading mode",
+        "commit_messages": []
+    },
+    "800592790": {
+        "issue_title": "Boxnovel",
+        "commit_messages": []
+    },
+    "798233596": {
+        "issue_title": "[Bug] Scroll in reader",
+        "commit_messages": []
+    },
+    "798227542": {
+        "issue_title": "[F-R] Browse section.",
+        "commit_messages": []
+    },
+    "797970384": {
+        "issue_title": "[Bug]UpdateWorker:0 Toast Notification ",
+        "commit_messages": []
+    },
+    "797823473": {
+        "issue_title": "[F-R] Browse Filtering",
+        "commit_messages": []
+    },
+    "797820732": {
+        "issue_title": "[F-R] Scroll via Volume Buttons",
+        "commit_messages": []
+    },
+    "797820236": {
+        "issue_title": "[Bug] Chapters download randomly (?)",
+        "commit_messages": []
+    },
+    "797809082": {
+        "issue_title": "[Bug] Downloaded and bookmarked filters don't work",
+        "commit_messages": []
+    },
+    "797804050": {
+        "issue_title": "[F-R] Setting to Auto bookmark novel if chapter is downloaded",
+        "commit_messages": []
+    },
+    "793891962": {
+        "issue_title": "Update styles.xml",
+        "commit_messages": []
+    },
+    "777670835": {
+        "issue_title": "[F-R] Managing Novel sources",
+        "commit_messages": []
+    },
+    "775245159": {
+        "issue_title": "[Bug] A display issue",
+        "commit_messages": []
+    },
+    "774806725": {
+        "issue_title": "[F-R] Translate Novels",
+        "commit_messages": []
+    },
+    "742941144": {
+        "issue_title": "[Bug] ",
+        "commit_messages": []
+    },
+    "740605141": {
+        "issue_title": "[Bug] Downloads all stuck as pending",
+        "commit_messages": []
+    },
+    "724838779": {
+        "issue_title": "Arabic translation",
+        "commit_messages": []
+    },
+    "720518089": {
+        "issue_title": "Arabic translation",
+        "commit_messages": []
+    },
+    "708300394": {
+        "issue_title": "[F-R] {Add scrolling using volume buttons}",
+        "commit_messages": []
+    }
+}
