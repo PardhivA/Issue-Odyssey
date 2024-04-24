@@ -143,7 +143,7 @@ from datetime import datetime
 import requests
 import json
 
-GitHubHandler = GithubFetcher("shosetsuorg","shosetsu", ["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"])
+GitHubHandler = GithubFetcher("shosetsuorg","shosetsu", [""])
 issues = GitHubHandler.get_issues({"state":"closed", "per_page":"100"})
 # print(issues)
 
