@@ -1,0 +1,95 @@
+.inactiveLink {
+    pointer-events: none;
+    cursor: default;
+ }
+ 
+ table, td, tr {
+   padding-right: 10px !important;
+ }
+ 
+ .custom-tag1 {
+     font-size: 16px !important;
+     background-color: #2572ed !important;
+     color: #FFFFFF !important;
+     width: 150px;
+ }
+ 
+ .custom-tag2 {
+     font-size: 16px !important;
+     background-color: #b21d03 !important;
+     color: #FFFFFF !important;
+     width: 150px;
+ }
+ .custom-tag3 {
+     font-size: 16px !important;
+     background-color: #2572ed !important;
+     color: #FFFFFF !important;
+     width: 150px;
+ }
+ 
+ .custom-tag4 {
+     font-size: 16px !important;
+     background-color: #b21d03 !important;
+     color: #FFFFFF !important;
+     width: 150px;
+ }
+ .custom-tag5 {
+     font-size: 16px !important;
+     background-color: #2572ed !important;
+     color: #FFFFFF !important;
+     width: 150px;
+ }
+ /*#700d0d */
+ .custom-tag0 {
+     font-size: 16px !important;
+     background-color: #b21d03 !important;
+     color: #FFFFFF !important;
+     width: 150px;
+ }
+ 
+ .post-tag, .geo-tag, .container .chosen-choices .search-choice, .container .chosen-container-multi .chosen-choices li.search-choice {
+     font-size: 12px;
+ }
+ .post-tag, .geo-tag, .container .chosen-choices .search-choice, .container .chosen-container-multi .chosen-choices li.search-choice {
+     color: #39739d;
+     background-color: #E1ECF4;
+     border-color: #E1ECF4;
+ }
+ .post-tag, .moderator-tag, .required-tag, .disliked-tag, .favorite-tag, .company-tag, .geo-tag, .geo-tag, .container .chosen-choices .search-choice, .container .chosen-container-multi .chosen-choices li.search-choice {
+     position: relative;
+     display: inline-block;
+     padding: .4em .5em;
+     margin: 2px 2px 2px 0;
+     font-size: 11px;
+     line-height: 1;
+     white-space: nowrap;
+     text-decoration: none;
+     text-align: center;
+     border-width: 1px;
+     border-style: solid;
+     border-radius: 3px;
+     transition: all .15s ease-in-out;
+ }
+ 
+ .progress {
+   position: relative;
+   height: 10px;
+   display: block;
+   width: 99%;
+   background-color: #acece6;
+   border-radius: 2px;
+   margin: 0.5rem 0 1rem 0;
+   overflow: hidden;
+ }
+ 
+ .progress .determinate {
+   position: absolute;
+   top: 0;
+   left: 0;
+   bottom: 0;
+   background-color: #26a69a;
+   -webkit-transition: width .3s linear;
+   transition: width .3s linear;
+ }
+ 
+ 

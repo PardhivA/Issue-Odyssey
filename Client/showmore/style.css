@@ -1,0 +1,10 @@
+.box {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    margin: 20px;
+}
+
+button {
+    margin-top: 10px;
+}

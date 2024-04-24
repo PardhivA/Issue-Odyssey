@@ -1,0 +1,100 @@
+.custom-commit-box {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 300px;
+  background-color: #333;
+  color: #fff;
+  border: 1px solid #555;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.3);
+  padding: 10px;
+  z-index: 1000;
+  font-family: Arial, sans-serif;
+  max-height: 90%;
+  overflow: auto;
+}
+.custom-commit-box h1 {
+  font-size: 16px;
+  color: white;  
+  margin-bottom: 10px;
+}
+.issue-entry {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #555; 
+  padding-bottom: 5px;
+}
+.issue-entry:last-child {
+  border-bottom: none;
+}
+.issue-entry a {
+  text-decoration: none;
+  color: #4da6ff;
+}
+.issue-entry .similarity {
+  display: block;
+  color: #bbb;
+  font-size: 12px;
+}
+.show-more-btn {
+  background-color: #444;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.show-more-btn:hover {
+  background-color: #555;
+}
+.issue-number {
+  color: #555; /* Dark gray color for the issue number */
+}
+
+
+
+
+
+
+  .issues-tracker-btn {
+    position: fixed;
+    bottom: 100px;
+    right: 30px;
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #4CAF50; /* Green background */
+    color: white;
+    border: none;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    cursor: pointer;
+    outline: none;
+    font-size: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1500;
+  }
+
+.issue-entry {
+  margin-bottom: 10px;
+  border-bottom: 1px solid #555; 
+  padding-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  /* align-items: center; Ensures everything is centered if the child elements are narrower */
+}
+  
+  .issue-entry:last-child {
+    border-bottom: none;
+  }
+  
+  .issue-entry a {
+    text-decoration: none;
+    color: #4da6ff;
+  }
+  
+  .similarity-bar {
+    margin-top: 5px; /* Add space between the link and the bar */
+  }
+  
+

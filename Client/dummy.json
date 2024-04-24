@@ -1,0 +1,35 @@
+{
+    "issues": [
+        {
+          "issue_no": 1,
+          "issue_link": "https://github.com/example/repo/issues/1",
+          "issue_title": "Fixing the login bug",
+          "similarity_per": "95%"
+        },
+        {
+          "issue_no": 2,
+          "issue_link": "https://github.com/example/repo/issues/2",
+          "issue_title": "Update dependencies to newer versions",
+          "similarity_per": "80%"
+        },
+        {
+          "issue_no": 3,
+          "issue_link": "https://github.com/example/repo/issues/3",
+          "issue_title": "Refactor the user authentication system",
+          "similarity_per": "89%"
+        },
+        {
+          "issue_no": 4,
+          "issue_link": "https://github.com/example/repo/issues/4",
+          "issue_title": "Optimize database queries",
+          "similarity_per": "92%"
+        },
+        {
+          "issue_no": 5,
+          "issue_link": "https://github.com/example/repo/issues/5",
+          "issue_title": "Improve UI responsiveness",
+          "similarity_per": "88%"
+        }
+      ]
+      
+}

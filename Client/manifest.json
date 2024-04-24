@@ -1,0 +1,33 @@
+{
+  "manifest_version": 3,
+  "name": "Issue-Odyssey",
+  "description": "An extension which gives you the similar issues .",
+  "version": "2.0.1",
+  "minimum_chrome_version": "49",
+  "author": "SEteam_2",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "IIssue-Odyssey"
+  },
+  "icons":{
+    "128": "githublogo.png"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": ["index.html"],
+      "matches": ["https://*/*"]
+      
+    }
+  ],
+  "permissions": ["tabs", "tabGroups", "storage", "webRequest", "webNavigation"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "css": ["style1.css"],
+      "js": ["js/jquery-3.3.1.min.js", "content.js", "js/chart_imported.js"]
+    }
+  ]
+}

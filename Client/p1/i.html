@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Score Indicator</title>
+    <style>
+        #scoreBox {
+            width: 300px; /* Width of the box */
+            height: 30px; /* Height of the box */
+            border: 1px solid #808080; /* Border for visibility */
+            color: #FFFFFF; /* Text color */
+            font-family: Arial, sans-serif; /* Font styling */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="scoreBox">0%</div>
+
+    <script>
+        /**
+         * Function to update the background gradient of the score box
+         * based on the provided score.
+         * @param {number} score - The score value between 0 and 100.
+         */
+        function updateScoreBox(score) {
+            const box = document.getElementById('scoreBox');
+            // Ensure the score is within the range 0 to 100
+            score = Math.max(0, Math.min(100, score));
+            // Set the gradient: green for the score percentage, red for the remainder
+            box.style.background = `linear-gradient(to right, 
+                                                    #008000 ${score}%, 
+                                                    #ffffff ${score}%)`;
+            // Update the box's text with the current score percentage
+            box.textContent = score + '%';
+        }
+
+        // Example usage: Update the box with a score of 20
+        document.addEventListener("DOMContentLoaded", function() {
+            updateScoreBox(20);
+        });
+    </script>
+</body>
+</html>
