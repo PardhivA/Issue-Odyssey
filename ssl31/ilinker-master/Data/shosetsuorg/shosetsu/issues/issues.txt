@@ -1,0 +1,100 @@
+Issue #242: Move app package to app.shosetsu.android
+Issue #241: Temp fix for backup restore with external repos
+Issue #240: [Bug] [App lags] 
+Issue #237: Fullscreen Settings for Reader
+Issue #236: UI Cleanup and improvements
+Issue #235: Multiple optimizations for performance
+Issue #234: [F-R] Chapter range download
+Issue #232: [Bug] [2.0.0-2344] Migrate source button malfunctioning
+Issue #231: Move package to app.shosetsu.android
+Issue #230: [F-R] Change export backup dialog to be easily understood
+Issue #224: [F-R]
+Issue #220: [Bug] [r2258] Mix up of chapters in the reader with vertical paging.
+Issue #217: [F-R]
+Issue #216: Search results stay between sources[Bug] [VERSION]
+Issue #215: [F-R]Add a way to cancel titles of chapters because they are spoilers
+Issue #213: [Bug] [2186]'Teleportation' to chapter when you click the resume button is wrong if the sort is the oppisite
+Issue #212: [F-R] Kolnovel server
+Issue #211: [Bug] [r2186]Unbookmark button selects all the chapters for no reason
+Issue #210: [F-R]Limit download speed.of.chapters
+Issue #208: [Bug] [2186] Heavy lag occours and accumulate over time after normal use
+Issue #206: [F-R]Give overlay to this upper bar
+Issue #205: Shosetsu V2
+Issue #204: [Bug] [VERSION] "End of input at character 0 of" bug
+Issue #203: Implement Paging for loading data from extensions
+Issue #192: [F-R] Space between the text and the borders settable
+Issue #190: [Bug] Back gesture doesn't work properly in reader. [r2050]
+Issue #187: [Bug] Unable to go back if volume scroll enabled.
+Issue #186: [Bug] [VERSION]
+Issue #180: white screen in Dark Mode when opening the app (2.0.0-1697)
+Issue #177: [SOURCE REQUEST]
+Issue #175: [F-R]adding source
+Issue #174: [F-R] Compiling notifications
+Issue #172: Extension install bug [1656]
+Issue #171: [F-R] Change to the "Jump" button
+Issue #169: Fix dropdown text color, unclickable space
+Issue #168: Disallow opening duplicate FILTER pop-ups
+Issue #167: [Bug] [2.0.0-1678] Duplicate FILTER pop-ups
+Issue #166: Spanish translation
+Issue #164: Previous failure doesn't stop current extension install
+Issue #163: [Bug] [2.0.0-1677] Offline extension install attempt blocks future online extension installs
+Issue #161: [Bug] [2.0.0-1656] Malformed extension stops all extension updates/installs
+Issue #160: [Bug] [1656] Genre Listing of a Novel Incomplete
+Issue #159: [Bug] [1656] Drop Down List Dark Theme Text Colour
+Issue #157: [Bug] [2.0.0-1656] Extension settings don't load the first time
+Issue #155: [Bug] [2.0.0-1656] Top of screen eats top of filter menu
+Issue #153: [Bug] [1656] Chapter Release (Date) Cut Off
+Issue #151: [F-R] Snackbar Resizing Depending on Downloaded Chapters
+Issue #150: [Bug] [1656] Novels in Listing View Duplicating
+Issue #149: [F-R] Export downloaded chapters as Epub
+Issue #148: [F-R] Option to cancel downloads
+Issue #147: [Bug] [2.0.0-1602] External backups can't be restored
+Issue #146: [F-R] Add an extension for novelupdates
+Issue #145: Chapter stops abruptly with certain character sequences 
+Issue #144: [F-R] Exporting to epub
+Issue #143: Unable to change download directory 
+Issue #141: [F-R] Mark previous as read
+Issue #140: [F-R] 
+Issue #138: [F-R] Update only ongoing to Update except complete
+Issue #137: [Bug] [2.0.0] What are the values in acra.properties supposed to be? [DEVELOPMENT]
+Issue #136: [F-R]
+Issue #133: [F-R]Top margin padding
+Issue #132: [Bug] [1441] Changing view in Browse section doesn't work
+Issue #131: [Bug] [1441] Cant change to light theme
+Issue #130: [Bug] [1441] Reader navbar and statusbar wont go away
+Issue #129: [downloading updated chapter not working] [1441
+Issue #128: [Bug] [1435 - 1441] Update screen not shown new update
+Issue #126: [F-R] Extension Update Notification
+Issue #125: Extension Request
+Issue #124: Extension Request
+Issue #121: [F-R] Font options
+Issue #120: [F-R] Bigger scoll bar in chapter browsing
+Issue #119: [F-R] Request to add an option to make shosetsu the default epub reader so that we can read downloaded epubs on shosetsu as well
+Issue #118: [Bug] [r1136] Chapter selection bugs out
+Issue #116: [F-R] Option to disable next/prev chapter gesture
+Issue #115: Removed FAB blue outline 
+Issue #114: [Bug] Let the reader remember where we left off the last read chapter.
+Issue #112: Show what novel chapters are updated when library is updated in notification toggle.
+Issue #109: Option for disable Left/Right Swipe
+Issue #108: [F-R] Add some built in rotation lock. It has happened a few times where it rotates by accident and then resets the chapter to the beginning.
+Issue #107: [F-R] A "novel chapter search feature" in library to directly jump to the required chapter & ability to directly "mark read above" chapters.
+Issue #106: [F-R] Improve accessibility for the visually impaired
+Issue #105: App crashes sometimes when reopening reading mode
+Issue #104: Boxnovel
+Issue #101: [Bug] Scroll in reader
+Issue #100: [F-R] Browse section.
+Issue #99: [Bug]UpdateWorker:0 Toast Notification 
+Issue #98: [F-R] Browse Filtering
+Issue #97: [F-R] Scroll via Volume Buttons
+Issue #96: [Bug] Chapters download randomly (?)
+Issue #95: [Bug] Downloaded and bookmarked filters don't work
+Issue #94: [F-R] Setting to Auto bookmark novel if chapter is downloaded
+Issue #93: Update styles.xml
+Issue #92: [F-R] Managing Novel sources
+Issue #91: [Bug] A display issue
+Issue #89: [F-R] Translate Novels
+Issue #86: [Bug] 
+Issue #85: [Bug] Downloads all stuck as pending
+Issue #83: Arabic translation
+Issue #82: Arabic translation
+Issue #81: [F-R] {Add scrolling using volume buttons}
