@@ -89,30 +89,31 @@ def issue_issue_linker(data):
             found_issue = issue
             break
     
-    # related_issues_matrix = None
-    related_issues = None
-    with open("/home/ssl31/Downloads/SWELinker30/relation_issue_issue.json") as f:
-        related_issues = json.load(f)
+    related_issues_matrix = None
+    # related_issues = None
+    # with open("/home/ssl31/Downloads/SWELinker30/relation_issue_issue.json") as f:
+    #     related_issues = json.load(f)
 
     print(found_issue)
-    print(related_issues)
+    # print(related_issues)
     print(found_issue["issue_index"])
-    # with open("/home/ssl31/Downloads/SWELinker30/issues_issue_match_percent.json") as f:
-    #     related_issues_matrix = json.load(f)
+    with open("/home/ssl31/Downloads/SWELinker30/newresults.json") as f:
+        related_issues_matrix = json.load(f)
 
-    related_issue_number = str(found_issue["issue_index"]-1)
-    # related_issues_to_current_issue = related_issues_matrix[str(found_issue["issue_index"]-1)]
-
-    # all_possibly_related_issue_numbers = []
-    # for issue_number_2 in range(len(related_issues_to_current_issue)):
-    #     if(related_issues_to_current_issue[issue_number_2]>60):
-    #         all_possibly_related_issue_numbers.append(issue_number_2)
+    # related_issue_number = str(found_issue["issue_index"]-1)
+    related_issues_to_current_issue = related_issues_matrix[int(found_issue["issue_index"]-1)]
 
     all_possibly_related_issue_numbers = []
-    for temp in related_issues:
-        issue_number, related_issue_number_of_this_issue = temp, related_issues[temp]["issueNumber"]
-        if(int(related_issue_number_of_this_issue)==int(related_issue_number)):
-            all_possibly_related_issue_numbers.append(issue_number)
+    for issue_number_2 in range(len(related_issues_to_current_issue)):
+        if(related_issues_to_current_issue[issue_number_2]>=50):
+            all_possibly_related_issue_numbers.append(issue_number_2)
+
+    # all_possibly_related_issue_numbers = []
+    # for temp in related_issues:
+    #     issue_number, related_issue_number_of_this_issue = temp, related_issues[temp]["issueNumber"]
+    #     if(int(related_issue_number_of_this_issue)==int(related_issue_number)):
+    #         all_possibly_related_issue_numbers.append(issue_number)
+    
     # for temp in related_issues:
     #     issue_number, related_issue_number_of_this_issue = temp, related_issues[temp]["issueNumber"]
     #     if(int(related_issue_number_of_this_issue)==int(related_issues[str(related_issue_number)]["issueNumber"])):
@@ -122,15 +123,15 @@ def issue_issue_linker(data):
 
     print(all_possibly_related_issue_numbers)
     
-    # for possibly_related_issue_number in all_possibly_related_issue_numbers:
-    #     for issue in issues:
-    #         if(issue["issue_index"]==int(possibly_related_issue_number)+1):
-    #             the_related_issues_to_be_sent_to_front_end.append({"issue":issue, "similarity_percentage": related_issues_to_current_issue[possibly_related_issue_number]})
-
     for possibly_related_issue_number in all_possibly_related_issue_numbers:
         for issue in issues:
             if(issue["issue_index"]==int(possibly_related_issue_number)+1):
-                the_related_issues_to_be_sent_to_front_end.append({"issue":issue, "similarity_percentage": related_issues[possibly_related_issue_number]["similarity_percentage"]})
+                the_related_issues_to_be_sent_to_front_end.append({"issue":issue, "similarity_percentage": related_issues_to_current_issue[possibly_related_issue_number]})
+
+    # for possibly_related_issue_number in all_possibly_related_issue_numbers:
+    #     for issue in issues:
+    #         if(issue["issue_index"]==int(possibly_related_issue_number)+1):
+    #             the_related_issues_to_be_sent_to_front_end.append({"issue":issue, "similarity_percentage": related_issues[possibly_related_issue_number]["similarity_percentage"]})
 
     return the_related_issues_to_be_sent_to_front_end
 

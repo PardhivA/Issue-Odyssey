@@ -402,73 +402,73 @@ function extractGithubInfo(url) {
   }
 }
 
-// async function getResult(send_data) {
-//   const options = {
-//     method: "POST",
-//     headers: {
-//       Accept: "application/json",
-//       "Content-Type": "application/json",
-//     },
-//     body: JSON.stringify(send_data), // Assuming your endpoint expects a string directly
-//   };
-//   // console.log(send_data);
-//   try {
-//     const response = await fetch("https://10.23.105.31:5000/get_issues", options);
-//     const data = await response.json();
-//     console.log("data", data);
-//     issuesData = data;
-//     appendCommitSummaryBox();
-//     return data;
-//   } catch (error) {
-//     console.error("Error:", error);
-//     throw error;
-//   }
-// }
-
 async function getResult(send_data) {
+  const options = {
+    method: "POST",
+    headers: {
+      Accept: "application/json",
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify(send_data), // Assuming your endpoint expects a string directly
+  };
+  // console.log(send_data);
   try {
-    const url = window.location.href;
-    const issueNumber = url.split('/').pop();
-    console.log("Issue Number:", issueNumber);
-
-    let responseData;
-
-    if (issueNumber === '242') {
-      console.log("here")
-      responseData = issuesData;
-    } else {
-      issuesData = [];
-      issuesData.push(
-        {
-          issue_no: 242,
-          issue_link: "https://github.com/shosetsuorg/shosetsu/pull/242",
-          issue_title: "Move app package to app.shosetsu.android",
-          similarity_per: "60%",
-        },
-        {
-          issue_no: 208,
-          issue_link: "https://github.com/shosetsuorg/shosetsu/issues/208",
-          issue_title: "[Bug] [2186] Heavy lag occours and accumulate over time after normal use",
-          similarity_per: "75%",
-        },
-        {
-          issue_no: 240,
-          issue_link: "https://github.com/shosetsuorg/shosetsu/issues/240",
-          issue_title: "[Bug] [App lags]",
-          similarity_per: "100%",
-        }
-      );
-      
-      responseData = issuesData;
-    }
-
-    appendCommitSummaryBox(); 
-    return responseData;
+    const response = await fetch("https://10.23.105.31:5000/get_issues", options);
+    const data = await response.json();
+    console.log("data", data);
+    issuesData = data;
+    appendCommitSummaryBox();
+    return data;
   } catch (error) {
     console.error("Error:", error);
     throw error;
   }
 }
+
+// async function getResult(send_data) {
+//   try {
+//     const url = window.location.href;
+//     const issueNumber = url.split('/').pop();
+//     console.log("Issue Number:", issueNumber);
+
+//     let responseData;
+
+//     if (issueNumber === '242') {
+//       console.log("here")
+//       responseData = issuesData;
+//     } else {
+//       issuesData = [];
+//       issuesData.push(
+//         {
+//           issue_no: 242,
+//           issue_link: "https://github.com/shosetsuorg/shosetsu/pull/242",
+//           issue_title: "Move app package to app.shosetsu.android",
+//           similarity_per: "60%",
+//         },
+//         {
+//           issue_no: 208,
+//           issue_link: "https://github.com/shosetsuorg/shosetsu/issues/208",
+//           issue_title: "[Bug] [2186] Heavy lag occours and accumulate over time after normal use",
+//           similarity_per: "75%",
+//         },
+//         {
+//           issue_no: 240,
+//           issue_link: "https://github.com/shosetsuorg/shosetsu/issues/240",
+//           issue_title: "[Bug] [App lags]",
+//           similarity_per: "100%",
+//         }
+//       );
+      
+//       responseData = issuesData;
+//     }
+
+//     appendCommitSummaryBox(); 
+//     return responseData;
+//   } catch (error) {
+//     console.error("Error:", error);
+//     throw error;
+//   }
+// }
 
 // Observer to detect page changes relevant to GitHub issue tracking
 const observer = new MutationObserver(async (mutations, obs) => {
